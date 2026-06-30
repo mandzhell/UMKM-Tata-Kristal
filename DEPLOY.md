@@ -50,7 +50,7 @@
 #   1. Buka https://sheets.google.com → buat spreadsheet baru
 #   2. Beri nama: "TATA Kristal - Data"
 #   3. Salin ID dari URL-nya:
-#      https://docs.google.com/spreadsheets/d/[INI_ID_NYA]/edit
+#      https://docs.google.com/spreadsheets/d/1QIIirJlNPmhtdITXNMtAsXrc7eOQDXRHXXbBL60wPW0/edit
 #
 # LANGKAH B — Buat Service Account di Google Cloud:
 #   1. Buka https://console.cloud.google.com
